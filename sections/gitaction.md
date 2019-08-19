@@ -94,8 +94,8 @@ You should see output similar to this:
 
 ```
 commit 8bb8306c1392eed52d4407eb16867a49b49a46ac (HEAD -> master)
-Author: Patrick Smyth <patricksmyth01@gmail.com>
-Date:   Sun May 20 16:03:39 2018 -0400
+Author: Eric Godat <egodat@smu.edu>
+Date:   Mon Aug 20 16:03:39 2019 -0400
 
     Initial commit of syllabus file
 ```
