@@ -12,7 +12,7 @@ Now we're going to **initialize** our repository, which means telling Git to pay
 
 You should see output like this:
 
-	Initialized empty Git repository in /home/patrick/projects/git/.git/
+	Initialized empty Git repository in /home/egodat/projects/git/.git/
 	
 Now Git is tracking our directory. But before that's useful, we'll have to create a text file for Git to track. For this session, the file we'll track will be a course syllabus—we'll create that next.
 
@@ -59,7 +59,7 @@ To create a bulleted list, put a hyphen at the beginning of each list item:
 	
 To create a link, put the anchor text (the text you will see) in square brackets and the URL in parentheses. Don't put a space between them:
 
-	I teach at [The Graduate Center, CUNY](https://www.gc.cuny.edu).
+	I am a Data Scientist for [Southern Methodist University](https://www.smu.edu/OIT/Services/DataScience).
 	
 Paragraphs of text are denoted by putting a blank line between them:
 
