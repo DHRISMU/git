@@ -6,7 +6,7 @@
 
 	git clone <repository-url>
 
-For practice, let's clone the repository for this session about Git and GitHub.
+For practice, let's clone a repository. We made a practice repor for this. 
 
 First, let's navigate back to your Desktop folder.
 
@@ -14,7 +14,7 @@ First, let's navigate back to your Desktop folder.
 	
 Remember that the ~ refers to your home directory. Now let's find the URL we need to clone the lesson.
 
-First, follow [this link to the main page of this lesson on Git and GitHub](https://github.com/DHRI-Curriculum/git).
+First, follow [this link to the main page of this test repository](https://github.com/librarianrafia/test-repo-for-cloning).
 
 On the main page, there should be a green `Clone or download` button on the right side:
 

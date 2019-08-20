@@ -30,7 +30,7 @@ As you can see across these sessions, we use GitHub to host workshop curricula. 
 
 #### Case One: This Session
 
-If you look just under the workshop title, `DHRI-Curriculum/git` at the top of this page, you can see it is `forked from pswee001/Git_DRI_Jan_2018`. That line shows that this particular repository is building on ("forked from") the curriculum for a session I presented at our January 2018 Institute. If you then look at that repository, you will see that it is in turn forked from previous sessions that were developed by other GC Digital Fellows for workshops in past years. 
+If you look just under the workshop title, 'DHRISMU/git' at the top of this page, you can see it is [forked from `DHRI-Curriculum/git`](https://github.com/DHRI-Curriculum/git) which is in turn `forked from pswee001/Git_DRI_Jan_2018`. That line shows that this particular repository is building on ("forked from") the curriculum for a session presented at CUNY DHRI January 2018 Institute. If you then look at that repository, you will see that it is in turn forked from previous sessions that were developed by other GC Digital Fellows for workshops in past years. 
 
 ### Collaborative Writing
 
@@ -38,7 +38,7 @@ Some of us use Git to track changes (*version control* in Git parlance) in writi
 
 #### Case Two: Coauthored Publications
 
-I personally have had Word crash and sections of an article lost, when I was collaborating on a large writing project with co-authors who were using different versions of Word. If we had tracked our revisions using Git, the previous versions of the paper would always be saved and changes documented in case we wanted to return to an idea from an earlier draft, or a section that reviewer 3 *really* wants to see included in the discussion but was cut for space.
+"I personally have had Word crash and sections of an article lost, when I was collaborating on a large writing project with co-authors who were using different versions of Word. If we had tracked our revisions using Git, the previous versions of the paper would always be saved and changes documented in case we wanted to return to an idea from an earlier draft, or a section that reviewer 3 *really* wants to see included in the discussion but was cut for space." -Patrick Sweeney
 
 ### Versions Across Time
 
